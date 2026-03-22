@@ -5,7 +5,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/badge/ichanzx1-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/ichanzx1)
+[![GitHub](https://img.shields.io/badge/FadelSM-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/FadelSM)
 
 <img src="./assets/banner2.png" width="100%" alt="API Whitelist Manager Banner">
 
@@ -33,7 +33,7 @@ The **API Whitelist Manager** was born out of a need for a lightweight, easy-to-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ichanzx1/API-Whitelist.git
+   git clone https://github.com/FadelSM/API-Whitelist.git
    cd API-Whitelist
    ```
 
@@ -81,9 +81,9 @@ This project is fully compatible with **Vercel**. To deploy, simply push your co
 
 ## ❤️ **Copyright & Credits**
 
-Made with ❤️ by [**ichanzx1**](https://github.com/ichanzx1).
+Made with ❤️ by [**FadelSM**](https://github.com/FadelSM).
 
-© 2026 ichanzx1. This project is licensed under the **MIT License**.
+© 2026 FadelSM. This project is licensed under the **MIT License**.
 
 <div align="right">
 
